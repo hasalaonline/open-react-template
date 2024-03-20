@@ -20,7 +20,7 @@ export default function Footer() {
                 className="h-24 w-auto"
               />
               </div>
-              <div className="text-gray-400">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</div>
+              <div className="text-gray-400">GenEd Mate is a tool that changes the way current generative AI is used for education.</div>
             </div>
 
             {/* 2nd, 3rd and 4th blocks */}

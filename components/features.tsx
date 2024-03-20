@@ -55,9 +55,7 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2">Personalized Guides</h4>
               <p className="text-lg text-gray-400 text-center">
-                Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                cupidatat.
+              Instead of providing an instant answer, you will receive a personalized guide
               </p>
             </div>
 
@@ -96,9 +94,7 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2">Informative Dashboard</h4>
               <p className="text-lg text-gray-400 text-center">
-                Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                cupidatat.
+              An informative dashboard designed specifically for you to enhance your knowledge
               </p>
             </div>
 
@@ -148,9 +144,7 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2">Daily Knowledge Updates</h4>
               <p className="text-lg text-gray-400 text-center">
-                Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                cupidatat.
+              Stay on track with daily notifications and expand your knowledge
               </p>
             </div>
           </div>
