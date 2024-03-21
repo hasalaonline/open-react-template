@@ -3,6 +3,8 @@ import Image from "next/image";
 import TestimonialImage01 from "@/public/images/testimonial-01.jpg";
 import TestimonialImage02 from "@/public/images/testimonial-02.jpg";
 import TestimonialImage03 from "@/public/images/testimonial-03.jpg";
+import TestimonialImage04 from "@/public/images/testimonial-04.jpg";
+import TestimonialImage05 from "@/public/images/testimonial-05.jpg";
 
 export default function Testimonials() {
   return (
@@ -35,7 +37,7 @@ export default function Testimonials() {
                 />
               </div>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Hasala</cite> -{" "}
+                <cite className="text-gray-200 not-italic">Hasala Abhilasha</cite> -{" "}
                 <a
                   className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out"
                   href="#0"
@@ -60,7 +62,7 @@ export default function Testimonials() {
                 />
               </div>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Keshan</cite> -{" "}
+                <cite className="text-gray-200 not-italic">Keshan Kavinda</cite> -{" "}
                 <a
                   className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out"
                   href="#0"
@@ -85,7 +87,7 @@ export default function Testimonials() {
                 />
               </div>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Gihansa</cite>{" "}
+                <cite className="text-gray-200 not-italic">Gihansa Abeygunawardana</cite>{" "}
                 -{" "}
                 <a
                   className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out"
@@ -103,14 +105,14 @@ export default function Testimonials() {
               <div className="text-center mb-4">
                 <Image
                   className="rounded-full mx-auto"
-                  src={TestimonialImage02}
+                  src={TestimonialImage04}
                   width={120}
                   height={120}
                   alt="Testimonial 01"
                 />
               </div>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Dinura</cite>{" "}
+                <cite className="text-gray-200 not-italic">Dinura Amarasinghe</cite>{" "}
                 -{" "}
                 <a
                   className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out"
@@ -128,20 +130,20 @@ export default function Testimonials() {
               <div className="text-center mb-4">
                 <Image
                   className="rounded-full mx-auto"
-                  src={TestimonialImage03}
+                  src={TestimonialImage05}
                   width={120}
                   height={120}
                   alt="Testimonial 01"
                 />
               </div>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Gihan</cite>{" "}
+                <cite className="text-gray-200 not-italic">Gihan Kanchana</cite>{" "}
                 -{" "}
                 <a
                   className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out"
                   href="#0"
                 >
-                  Database Developer
+                  Front-End & Database Developer
                 </a>
               </div>
             </div>
