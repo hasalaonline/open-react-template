@@ -40,6 +40,14 @@ export default function Header() {
               </li> */}
               <li>
                 <Link
+                  href="/privacy_policy.html"
+                  className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3"
+                >
+                  Privacy Policy
+                </Link>
+              </li>
+              <li>
+                <Link
                   href="mailto:genedmateofficial@gmail.com"
                   className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3"
                 >
