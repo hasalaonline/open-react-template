@@ -67,7 +67,7 @@ export default function Testimonials() {
                   className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out"
                   href="#0"
                 >
-                  UX/UI Designer & Front-End Developer
+                  Full Stack Developer
                 </a>
               </div>
             </div>
@@ -93,7 +93,7 @@ export default function Testimonials() {
                   className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out"
                   href="#0"
                 >
-                 Back-End Developer
+                 Full Stack Developer
                 </a>
               </div>
             </div>
@@ -143,7 +143,7 @@ export default function Testimonials() {
                   className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out"
                   href="#0"
                 >
-                  Front-End & Database Developer
+                  Full Stack Developer
                 </a>
               </div>
             </div>
