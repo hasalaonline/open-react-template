@@ -67,7 +67,7 @@ export default function Testimonials() {
                   className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out"
                   href="#0"
                 >
-                  Full Stack Developer
+                  UX/UI Designer & Full Stack Developer
                 </a>
               </div>
             </div>
