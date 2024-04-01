@@ -32,8 +32,8 @@ export default function Zigzag() {
                 <Image
                   className="max-w-full mx-auto md:max-w-none h-auto"
                   src={FeatImage01}
-                  width={540}
-                  height={405}
+                  width={300}
+                  height={300}
                   alt="Features 01"
                 />
               </div>
@@ -97,8 +97,8 @@ export default function Zigzag() {
                 <Image
                   className="max-w-full mx-auto md:max-w-none h-auto"
                   src={FeatImage02}
-                  width={540}
-                  height={405}
+                  width={300}
+                  height={300}
                   alt="Features 02"
                 />
               </div>
@@ -163,8 +163,8 @@ export default function Zigzag() {
                 <Image
                   className="max-w-full mx-auto md:max-w-none h-auto"
                   src={FeatImage03}
-                  width={540}
-                  height={405}
+                  width={300}
+                  height={300}
                   alt="Features 03"
                 />
               </div>
@@ -229,8 +229,8 @@ export default function Zigzag() {
                 <Image
                   className="max-w-full mx-auto md:max-w-none h-auto"
                   src={FeatImage04}
-                  width={540}
-                  height={405}
+                  width={300}
+                  height={300}
                   alt="Features 02"
                 />
               </div>
@@ -309,7 +309,7 @@ export default function Zigzag() {
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">
                     More speed. Less spend
                   </div>
-                  <h3 className="h3 mb-3">Informative Dashboard</h3>
+                  <h3 className="h3 mb-3">Notification System</h3>
                   <p className="text-xl text-gray-400 mb-4">
                    With this feature you
                     aliqua.
